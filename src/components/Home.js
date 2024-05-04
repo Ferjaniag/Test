@@ -2,9 +2,9 @@ import React from 'react'
 import { CartState } from '../context/CartContext'
 import Filters from './Filters';
 import SingleProduct from './SingleProduct';
-import Sidebar from './sidebar/Sidebar';
+
 import './styles.css';
-import FilterBar from '../context/FilterBar';
+
 
 const Home = () => {
   const { 
